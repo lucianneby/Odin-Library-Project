@@ -1,6 +1,3 @@
-//TODO:
-//- make checkbox trigger read() method to toggle this book in question's read status in the myLibrary array and not just on page
-
 const myLibrary = [];
 
 document.addEventListener("DOMContentLoaded", function() {
